@@ -1,3 +1,1 @@
-# orable4.github.io
-
-# for the inky shit
+my bio website
